@@ -13,8 +13,8 @@ Awesome Generative Models is a curated repository tracking progress in generativ
 ## Foundation Models
 ## Dataset
 ## Diffusion models
-Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers:)
+Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
 ### Paper list
 ## Autogressive models
-Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers:)
+Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
 ### Paper list
