@@ -10,5 +10,5 @@ Awesome Generative Models is a curated repository tracking progress in generativ
 * Personalized Image Generation with Deep Generative Models: A Decade Survey. [[Paper]](https://arxiv.org/abs/2502.13081)
 ## Diffusion models
 ### Paper list
-## Dutogressive models
+## Autogressive models
 ### Paper list
