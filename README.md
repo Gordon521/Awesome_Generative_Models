@@ -6,9 +6,9 @@ Awesome Generative Models is a curated repository tracking progress in generativ
   - [Foundation Models](#foundation-models)
   - [Dataset](#datasets)
   - [Diffusion models](#diffusion-models)
-        - [paper list](#paper-list)
+    - [paper list](#paper-list)
   - [Autogressive models](#autogressive-models)
-        - [paper list](#paper-list-1)
+    - [paper list](#paper-list-1)
 ## Surveys
 * A Survey on Generative Diffusion Models. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10419041)
 * Personalized Image Generation with Deep Generative Models: A Decade Survey. [[Paper]](https://arxiv.org/abs/2502.13081)
