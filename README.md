@@ -38,4 +38,7 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
 ### Paper list
 ## Autogressive models
 Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
+
+| Methods | Paper | Pub | Params | Resolusion | Steps | gFID | Latency(s) | Throughput(images/s) | Code |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ### Paper list
