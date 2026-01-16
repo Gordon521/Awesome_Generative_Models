@@ -5,6 +5,7 @@ Awesome Generative Models is a curated repository tracking progress in generativ
   - [Surveys](#surveys)
   - [Foundation Models](#foundation-models)
   - [Dataset](#datasets)
+  - [Tokenizer](#Tokenizer)
   - [Diffusion models](#diffusion-models)
     - [paper list](#paper-list)
   - [Autogressive models](#autogressive-models)
@@ -30,10 +31,19 @@ Awesome Generative Models is a curated repository tracking progress in generativ
 - `StyleGAN 3` **Alias-Free Generative Adversarial Networks.**
   [[Paper](https://arxiv.org/abs/2106.12423)] [[Code](https://github.com/NVlabs/stylegan3)]​
 ## Dataset
-## tokenizer
+## Tokenizer
+- `VAE` **Auto-Encoding Variational Bayes**
+  [[Paper](https://arxiv.org/abs/1312.6114)]
+- `VQVAE` **Neural Discrete Representation Learning**
+  [[Paper](https://arxiv.org/abs/1711.00937)]
+- `VQVAE 2` **Generating Diverse High-Fidelity Images with VQ-VAE-2**
+  [[Paper](https://arxiv.org/abs/1906.00446)]
+- `VAVAE` **Neural Discrete Representation Learning**
+  [[Paper](https://arxiv.org/abs/2412.04852)] [[Code](https://github.com/hustvl/LightningDiT)]
 - `titok` **An Image is Worth 32 Tokens for Reconstruction and Generation**
-  [[Paper](An Image is Worth 32 Tokens for Reconstruction and Generation)] [[Code](https://github.com/bytedance/1d-tokenizer)]
-- `VAE`
+  [[Paper](https://arxiv.org/abs/2406.07550)] [[Code](https://github.com/bytedance/1d-tokenizer)]
+- `tatitok` **Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens**
+  [[Paper](https://arxiv.org/abs/2501.07730)] [[Code](https://github.com/bytedance/1d-tokenizer)]
 ## Diffusion models
 Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
 (To be revised)
