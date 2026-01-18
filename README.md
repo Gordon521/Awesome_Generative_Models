@@ -52,6 +52,7 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
 - `REPA` **Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**
   [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/sihyun-yu/REPA)]
 - `REG` **Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think**
+  
   [[Paper](https://arxiv.org/abs/2507.01467)] [[Code](https://github.com/Martinser/REG)] [[论文解读](https://zhuanlan.zhihu.com/p/1952346823168595518)]
 - `REPA-E` **REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**
   [[Paper](https://arxiv.org/abs/2504.10483)] [[Code](https://github.com/End2End-Diffusion/REPA-E)]
@@ -63,6 +64,7 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
   [[Paper](https://arxiv.org/abs/2212.09748)] [[Code](https://www.github.com/facebookresearch/DiT)]
 - `MDT` **Masked Diffusion Transformer is a Strong Image Synthesizer**
   [[Paper](https://arxiv.org/abs/2303.14389)] [[Code](https://github.com/sail-sg/MDT)]
+
 | Methods | Paper | Pub | Params | Resolusion | Steps | gFID | Latency(s) | Throughput(images/s) | Code |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ### Paper list
