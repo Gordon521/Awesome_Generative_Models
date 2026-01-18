@@ -40,13 +40,29 @@ Awesome Generative Models is a curated repository tracking progress in generativ
   [[Paper](https://arxiv.org/abs/1906.00446)]
 - `VAVAE` **Neural Discrete Representation Learning**
   [[Paper](https://arxiv.org/abs/2412.04852)] [[Code](https://github.com/hustvl/LightningDiT)]
-- `titok` **An Image is Worth 32 Tokens for Reconstruction and Generation**
+- `Titok` **An Image is Worth 32 Tokens for Reconstruction and Generation**
   [[Paper](https://arxiv.org/abs/2406.07550)] [[Code](https://github.com/bytedance/1d-tokenizer)]
-- `tatitok` **Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens**
+- `TA-Titok` **Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens**
   [[Paper](https://arxiv.org/abs/2501.07730)] [[Code](https://github.com/bytedance/1d-tokenizer)]
+- `MAEtok` **Masked Autoencoders Are Effective Tokenizers for Diffusion Models**
+  [[Paper](https://arxiv.org/abs/2502.03444)] [[Code](https://github.com/Hhhhhhao/continuous_tokenizer)]
 ## Diffusion models
 Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
 (To be revised)
+- `REPA` **Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**
+  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/sihyun-yu/REPA)]
+- `REG` **Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think**
+  [[Paper](https://arxiv.org/abs/2507.01467)] [[Code](https://github.com/Martinser/REG)] [[论文解读](https://zhuanlan.zhihu.com/p/1952346823168595518)]
+- `REPA-E` **REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**
+  [[Paper](https://arxiv.org/abs/2504.10483)] [[Code](https://github.com/End2End-Diffusion/REPA-E)]
+- `RAE` **Diffusion Transformers with Representation Autoencoders**
+  [[Paper](https://arxiv.org/abs/2510.11690)] [[Code](https://github.com/bytetriper/RAE)]
+- `SIT` **SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers**
+  [[Paper](https://arxiv.org/abs/2401.08740)] [[Code](https://github.com/willisma/SiT)]
+- `DIT` **Scalable Diffusion Models with Transformers**
+  [[Paper](https://arxiv.org/abs/2212.09748)] [[Code](https://www.github.com/facebookresearch/DiT)]
+- `MDT` **Masked Diffusion Transformer is a Strong Image Synthesizer**
+  [[Paper](https://arxiv.org/abs/2303.14389)] [[Code](https://github.com/sail-sg/MDT)]
 | Methods | Paper | Pub | Params | Resolusion | Steps | gFID | Latency(s) | Throughput(images/s) | Code |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ### Paper list
