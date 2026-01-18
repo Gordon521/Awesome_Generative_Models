@@ -75,12 +75,13 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
   [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
 - `Llamagen` **Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**
   [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/FoundationVision/LlamaGen)]
-- `MAR` **Autoregressive Image Generation without Vector Quantization**
-  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
-- `MAR` **Autoregressive Image Generation without Vector Quantization**
-  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
-- `MAR` **Autoregressive Image Generation without Vector Quantization**
-  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
+- `show-o` **Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**
+  [[Paper](https://arxiv.org/abs/2408.12528)] [[Code](https://github.com/showlab/Show-o)]
+- `DC-AR` **DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer**
+  [[Paper](https://arxiv.org/abs/2507.04947)] [[Code](https://github.com/dc-ai-projects/DC-AR)]
+- `NEPA` **Next-Embedding Prediction Makes Strong Vision Learners**
+  [[Paper](https://arxiv.org/abs/2512.16922)] [[Code](https://github.com/SihanXU/nepa)]
+
 | Methods | Paper | Pub | Params | Resolusion | Steps | gFID | Latency(s) | Throughput(images/s) | Code |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ### Paper list
