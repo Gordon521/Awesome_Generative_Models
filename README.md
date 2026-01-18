@@ -71,6 +71,16 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
 ## Autogressive models
 Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
 (To be revised)
+- `MAR` **Autoregressive Image Generation without Vector Quantization**
+  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
+- `Llamagen` **Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**
+  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/FoundationVision/LlamaGen)]
+- `MAR` **Autoregressive Image Generation without Vector Quantization**
+  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
+- `MAR` **Autoregressive Image Generation without Vector Quantization**
+  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
+- `MAR` **Autoregressive Image Generation without Vector Quantization**
+  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
 | Methods | Paper | Pub | Params | Resolusion | Steps | gFID | Latency(s) | Throughput(images/s) | Code |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ### Paper list
