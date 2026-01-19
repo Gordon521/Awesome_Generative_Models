@@ -63,6 +63,8 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
   [[Paper](https://arxiv.org/abs/2401.08740)] [[Code](https://github.com/willisma/SiT)]
 - `DIT` **Scalable Diffusion Models with Transformers**
   [[Paper](https://arxiv.org/abs/2212.09748)] [[Code](https://www.github.com/facebookresearch/DiT)]
+- `MaskDIT` **Fast Training of Diffusion Models with Masked Transformers**
+  [[Paper](https://arxiv.org/abs/2306.09305)] [[Code](https://github.com/Anima-Lab/MaskDiT)]
 - `MDT` **Masked Diffusion Transformer is a Strong Image Synthesizer**
   [[Paper](https://arxiv.org/abs/2303.14389)] [[Code](https://github.com/sail-sg/MDT)]
 - `PIT` **Back to Basics: Let Denoising Generative Models Denoise**
@@ -70,8 +72,16 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
 - `DeCo` **DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**
   [[Paper](https://arxiv.org/abs/2511.19365)] [[Code](https://github.com/Zehong-Ma/DeCo)]
 - `PixelDIT` **PixelDiT: Pixel Diffusion Transformers for Image Generation**
-  [[Paper](https://arxiv.org/abs/2511.20645)]
-
+  [[Paper](https://arxiv.org/abs/2511.20645)] [[Code](https://github.com/Zehong-Ma/DeCo)]
+- `ADM` **Simultaneous Image-to-Zero and Zero-to-Noise: Diffusion Models with Analytical Image Attenuation**
+  [[Paper](https://arxiv.org/abs/2306.13720)] [[Code](https://github.com/GuHuangAI/ADM-Public)]
+- `RIN` **Scalable Adaptive Computation for Iterative Generation**
+  [[Paper](https://arxiv.org/abs/2212.11972)] [[Code](https://github.com/google-research/pix2seq)
+- `PixelFlow` **PixelFlow: Pixel-Space Generative Models with Flow**
+  [[Paper](https://arxiv.org/abs/2504.07963)] [[Code](https://github.com/ShoufaChen/PixelFlow)
+- `PixNerd` **PixNerd: Pixel Neural Field Diffusion**
+  [[Paper](https://arxiv.org/abs/2507.23268)] [[Code](https://github.com/MCG-NJU/PixNerd)
+  
 ## Autogressive models
 Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
 (To be revised)
