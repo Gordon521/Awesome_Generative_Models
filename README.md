@@ -65,9 +65,6 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
 - `MDT` **Masked Diffusion Transformer is a Strong Image Synthesizer**
   [[Paper](https://arxiv.org/abs/2303.14389)] [[Code](https://github.com/sail-sg/MDT)]
 
-| Methods | Paper | Pub | Params | Resolusion | Steps | gFID | Latency(s) | Throughput(images/s) | Code |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-### Paper list
 ## Autogressive models
 Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
 (To be revised)
@@ -82,6 +79,7 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
 - `NEPA` **Next-Embedding Prediction Makes Strong Vision Learners**
   [[Paper](https://arxiv.org/abs/2512.16922)] [[Code](https://github.com/SihanXU/nepa)]
 
-| Methods | Paper | Pub | Params | Resolusion | Steps | gFID | Latency(s) | Throughput(images/s) | Code |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-### Paper list
+## Table
+| Method | Epochs | #Params | gFID↓ | IS↑ | Prec.↑ | Rec.↑ | gFID↓ | IS↑ | Prec.↑ | Rec.↑ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Generation@256 w/o guidance** | | | | | | | **Generation@256 w/ guidance** | | | |
