@@ -15,6 +15,7 @@ Awesome Generative Models is a curated repository tracking progress in generativ
 ## Foundation Models
 - `LDM` **High-Resolution Image Synthesis with Latent Diffusion Models.**
   [[Paper](https://arxiv.org/abs/2112.10752)] [[Code](https://github.com/CompVis/latent-diffusion)]
+  
 - `DALL·E 1` **Zero-Shot Text-to-Image Generation.**
   [[Paper](https://arxiv.org/abs/2102.12092)] [[Code](https://github.com/openai/DALL-E)]
 - `DALL·E 2` **Hierarchical Text-Conditional Image Generation with CLIP Latents.** 
@@ -76,6 +77,7 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
 (To be revised)
 - `VAR` **Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**
   [[Paper](https://arxiv.org/abs/2404.02905)] [[Code](https://github.com/FoundationVision/VAR)]
+  
 - `MAR` **Autoregressive Image Generation without Vector Quantization**
   [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
 - `xAR` **Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**
