@@ -79,7 +79,7 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
   [[Paper](https://arxiv.org/abs/2512.16922)] [[Code](https://github.com/SihanXU/nepa)]
 
 ## Table
-|||| **Generation@256 w/o guidance** | | | | | **Generation@256 w/ guidance** | | | |
+| | | | **Generation@256 w/o guidance** | | | | **Generation@256 w/ guidance** | | | |
 | Method | Epochs | #Params | gFID↓ | IS↑ | Prec.↑ | Rec.↑ | gFID↓ | IS↑ | Prec.↑ | Rec.↑ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Autoregressive** | | | | | | | | | | |
