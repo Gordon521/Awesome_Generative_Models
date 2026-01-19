@@ -8,7 +8,7 @@ Awesome Generative Models is a curated repository tracking progress in generativ
   - [Tokenizer](#Tokenizer)
   - [Diffusion models](#diffusion-models)
   - [Autogressive models](#autogressive-models)
-  - [Table]
+  - [Table](#table)
 ## Surveys
 * A Survey on Generative Diffusion Models. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10419041)
 * Personalized Image Generation with Deep Generative Models: A Decade Survey. [[Paper]](https://arxiv.org/abs/2502.13081)
@@ -33,6 +33,7 @@ Awesome Generative Models is a curated repository tracking progress in generativ
 ## Tokenizer
 - `VAE` **Auto-Encoding Variational Bayes**
   [[Paper](https://arxiv.org/abs/1312.6114)]
+  
 - `VQVAE` **Neural Discrete Representation Learning**
   [[Paper](https://arxiv.org/abs/1711.00937)]
 - `VQVAE 2` **Generating Diverse High-Fidelity Images with VQ-VAE-2**
