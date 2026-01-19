@@ -2,13 +2,39 @@
 Awesome Generative Models is a curated repository tracking progress in generative AI, serving as a resource for state-of-the-art papers, code, and datasets. *(The project is under active development, and contributions are warmly welcome!)*
 # Table of Contents
 - [Papers](#papers)
+  - [Table](#table)
   - [Surveys](#surveys)
   - [Foundation Models](#foundation-models)
   - [Dataset](#datasets)
   - [Tokenizer](#Tokenizer)
   - [Diffusion models](#diffusion-models)
   - [Autogressive models](#autogressive-models)
-  - [Table](#table)
+
+## Table
+Generation@256
+| Method | Epochs | #Params | gFID↓ | IS↑ | Prec.↑ | Rec.↑ | gFID↓ | IS↑ | Prec.↑ | Rec.↑ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | **w/o guidance** | | | | **w/ guidance** | | | |
+| **Autoregressive** | | | | | | | | | | |
+| VAR | 350 | 2.0B | 1.92 | 323.1 | 0.82 | 0.59 | 1.73 | 350.2 | 0.82 | 0.60 |
+| MAR | 800 | 943M | 2.35 | 227.8 | 0.79 | 0.62 | 1.55 | 303.7 | 0.81 | 0.62 |
+| xAR | 800 | 1.1B | - | - | - | - | 1.24 | 301.6 | 0.83 | 0.64 |
+| **Pixel Diffusion** | | | | | | | | | | |
+| ADM | 400 | 554M | 10.94 | 101.0 | 0.69 | 0.63 | 3.94 | 215.8 | 0.83 | 0.53 |
+| RIN | 480 | 410M | 3.42 | 182.0 | - | - | - | - | - | - |
+| PixelFlow | 320 | 677M | - | - | - | - | 1.98 | 282.1 | 0.81 | 0.60 |
+| PixNerd | 160 | 700M | - | - | - | - | 2.15 | 297.0 | 0.79 | 0.59 |
+| SiD2 | 1280 | - | - | - | - | - | 1.38 | - | - | - |
+| **Latent Diffusion** | | | | | | | | | | |
+| DiT | 1400 | 675M | 9.62 | 121.5 | 0.67 | 0.67 | 2.27 | 278.2 | 0.83 | 0.57 |
+| MaskDiT | 1600 | 675M | 5.69 | 177.9 | 0.74 | 0.60 | 2.28 | 276.6 | 0.80 | 0.61 |
+| SiT | 1400 | 675M | 8.61 | 131.7 | 0.68 | 0.67 | 2.06 | 270.3 | 0.82 | 0.59 |
+| MDTv2 | 1080 | 675M | - | - | - | - | 1.58 | 314.7 | 0.79 | 0.65 |
+| VA-VAE | 80 | 675M | 4.29 | - | - | - | - | - | - | - |
+| REPA | 80 | 675M | 7.90 | 122.6 | 0.70 | 0.65 | - | - | - | - |
+| REG | 80 | 677M | 3.40 | 321.4 | 0.76 | 0.63 | - | - | - | - |
+| REPA-E | 80 | 675M | 1.70 | 159.8 | 0.77 | 0.63 | 1.67 | 266.3 | 0.80 | 0.63 |
+
 ## Surveys
 * A Survey on Generative Diffusion Models. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10419041)
 * Personalized Image Generation with Deep Generative Models: A Decade Survey. [[Paper]](https://arxiv.org/abs/2502.13081)
