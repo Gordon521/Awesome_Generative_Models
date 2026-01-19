@@ -63,14 +63,24 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
   [[Paper](https://arxiv.org/abs/2212.09748)] [[Code](https://www.github.com/facebookresearch/DiT)]
 - `MDT` **Masked Diffusion Transformer is a Strong Image Synthesizer**
   [[Paper](https://arxiv.org/abs/2303.14389)] [[Code](https://github.com/sail-sg/MDT)]
+- `PIT` **Back to Basics: Let Denoising Generative Models Denoise**
+  [[Paper](https://arxiv.org/abs/2511.13720)] [[Code](https://github.com/LTH14/JiT)]
+- `DeCo` **DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**
+  [[Paper](https://arxiv.org/abs/2511.19365)] [[Code](https://github.com/Zehong-Ma/DeCo)]
+- `PixelDIT` **PixelDiT: Pixel Diffusion Transformers for Image Generation**
+  [[Paper](https://arxiv.org/abs/2511.20645)]
 
 ## Autogressive models
 Please also see a LaTeX table (located in xxx) containing a curated list of references from this repository for your convenience in citing directly within your papers.
 (To be revised)
+- `VAR` **Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**
+  [[Paper](https://arxiv.org/abs/2404.02905)] [[Code](https://github.com/FoundationVision/VAR)]
 - `MAR` **Autoregressive Image Generation without Vector Quantization**
   [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/LTH14/mar)]
+- `xAR` **Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**
+  [[Paper](https://arxiv.org/abs/2502.20388)] [[Code](https://oliverrensu.github.io/project/xAR)]
 - `Llamagen` **Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**
-  [[Paper](https://arxiv.org/abs/2410.06940)] [[Code](https://github.com/FoundationVision/LlamaGen)]
+  [[Paper](https://arxiv.org/abs/2406.06525)] [[Code](https://github.com/FoundationVision/LlamaGen)]
 - `show-o` **Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**
   [[Paper](https://arxiv.org/abs/2408.12528)] [[Code](https://github.com/showlab/Show-o)]
 - `DC-AR` **DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer**
