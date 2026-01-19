@@ -7,9 +7,8 @@ Awesome Generative Models is a curated repository tracking progress in generativ
   - [Dataset](#datasets)
   - [Tokenizer](#Tokenizer)
   - [Diffusion models](#diffusion-models)
-    - [paper list](#paper-list)
   - [Autogressive models](#autogressive-models)
-    - [paper list](#paper-list-1)
+  - [Table]
 ## Surveys
 * A Survey on Generative Diffusion Models. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10419041)
 * Personalized Image Generation with Deep Generative Models: A Decade Survey. [[Paper]](https://arxiv.org/abs/2502.13081)
@@ -80,6 +79,9 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
   [[Paper](https://arxiv.org/abs/2512.16922)] [[Code](https://github.com/SihanXU/nepa)]
 
 ## Table
+|||| **Generation@256 w/o guidance** | | | | | **Generation@256 w/ guidance** | | | |
 | Method | Epochs | #Params | gFID↓ | IS↑ | Prec.↑ | Rec.↑ | gFID↓ | IS↑ | Prec.↑ | Rec.↑ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Generation@256 w/o guidance** | | | | | | | **Generation@256 w/ guidance** | | | |
+| **Autoregressive** | | | | | | | | | | |
+| **Pixel Diffusion** | | | | | | | | | | |
+| **Latent Diffusion** | | | | | | | | | | |
