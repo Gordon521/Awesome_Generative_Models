@@ -80,8 +80,8 @@ Please also see a LaTeX table (located in xxx) containing a curated list of refe
 
 ## Table
 | Method | Epochs | #Params | gFID↓ | IS↑ | Prec.↑ | Rec.↑ | gFID↓ | IS↑ | Prec.↑ | Rec.↑ |
-| | | | **Generation@256 w/o guidance** | | | | **Generation@256 w/ guidance** | | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | **Generation@256 w/o guidance** | | | | **Generation@256 w/ guidance** | | | |
 | **Autoregressive** | | | | | | | | | | |
 | VAR | 350 | 2.0B | 1.92 | 323.1 | 0.82 | 0.59 | 1.73 | 350.2 | 0.82 | 0.60 |
 | MAR | 800 | 943M | 2.35 | 227.8 | 0.79 | 0.62 | 1.55 | 303.7 | 0.81 | 0.62 |
