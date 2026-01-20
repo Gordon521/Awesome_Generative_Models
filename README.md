@@ -11,7 +11,7 @@ Awesome Generative Models is a curated repository tracking progress in generativ
   - [Autogressive models](#autogressive-models)
 
 ## Table
-Generation@256
+Generation@ ImageNet 256
 | Method | Epochs | #Params | gFID↓ | IS↑ | Prec.↑ | Rec.↑ | gFID↓ | IS↑ | Prec.↑ | Rec.↑ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | **w/o guidance** | | | | **w/ guidance** | | | |
