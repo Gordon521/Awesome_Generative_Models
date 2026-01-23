@@ -12,11 +12,11 @@ Awesome Generative Models is a curated repository tracking progress in generativ
 
 ## Table
 Generation@ ImageNet 256
-| Method | Epochs | #Params | gFID↓ | IS↑ | Prec.↑ | Rec.↑ | gFID↓ | IS↑ | Prec.↑ | Rec.↑ |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | | | **w/o guidance** | | | | **w/ guidance** | | | |
+| Method | Pub | Tokenizer | Epochs | #Params | gFID↓ | sFID | IS↑ | Prec.↑ | Rec.↑ | gFID↓ | sFID | IS↑ | Prec.↑ | Rec.↑ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | | **w/o guidance** | | | | | **w/ guidance** | | | | |
 | **Autoregressive** | | | | | | | | | | |
-| VAR | 350 | 2.0B | 1.92 | 323.1 | 0.82 | 0.59 | 1.73 | 350.2 | 0.82 | 0.60 |
+| VAR | - | 350 | 2.0B | 1.92 | - | 323.1 | 0.82 | 0.59 | 1.73 | 350.2 | 0.82 | 0.60 |
 | MAR | 800 | 943M | 2.35 | 227.8 | 0.79 | 0.62 | 1.55 | 303.7 | 0.81 | 0.62 |
 |RandAR |
 |LlamaGen|
