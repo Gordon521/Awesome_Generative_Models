@@ -79,6 +79,8 @@ Generation@ ImageNet 256
   [[Paper](https://arxiv.org/abs/1711.00937)]
 - `VQVAE 2` **Generating Diverse High-Fidelity Images with VQ-VAE-2**
   [[Paper](https://arxiv.org/abs/1906.00446)]
+- `Wasserstein VQ` **Distributional Matching for Vector Quantization**
+  [[Paper](https://vq-research.github.io/Wasserstein-VQ/assets/Distributional_Matching_Vector_Quantization.pdf)] [[Code](https://github.com/VQ-Research/Wasserstein-VQ)]
 - `VAVAE` **Neural Discrete Representation Learning**
   [[Paper](https://arxiv.org/abs/2412.04852)] [[Code](https://github.com/hustvl/LightningDiT)]
 - `Titok` **An Image is Worth 32 Tokens for Reconstruction and Generation**
